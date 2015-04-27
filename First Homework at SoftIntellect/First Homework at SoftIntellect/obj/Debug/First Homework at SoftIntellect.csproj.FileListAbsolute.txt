@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\bin\Debug\First Homework at SoftIntellect.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\bin\Debug\First Homework at SoftIntellect.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\bin\Debug\First Homework at SoftIntellect.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\obj\Debug\First Homework at SoftIntellect.csprojResolveAssemblyReference.cache
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\obj\Debug\First Homework at SoftIntellect.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\First Homework at SoftIntellect\First Homework at SoftIntellect\obj\Debug\First Homework at SoftIntellect.pdb
