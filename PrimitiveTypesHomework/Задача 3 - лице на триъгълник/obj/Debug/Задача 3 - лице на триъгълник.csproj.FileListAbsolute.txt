@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\bin\Debug\Задача 3 - лице на триъгълник.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\bin\Debug\Задача 3 - лице на триъгълник.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\bin\Debug\Задача 3 - лице на триъгълник.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\obj\Debug\Задача 3 - лице на триъгълник.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\obj\Debug\Задача 3 - лице на триъгълник.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 3 - лице на триъгълник\obj\Debug\Задача 3 - лице на триъгълник.csprojResolveAssemblyReference.cache

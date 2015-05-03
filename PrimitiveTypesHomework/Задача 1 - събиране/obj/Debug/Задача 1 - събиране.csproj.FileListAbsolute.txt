@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\bin\Debug\Задача 1 - събиране.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\bin\Debug\Задача 1 - събиране.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\bin\Debug\Задача 1 - събиране.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\obj\Debug\Задача 1 - събиране.csprojResolveAssemblyReference.cache
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\obj\Debug\Задача 1 - събиране.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 1 - събиране\obj\Debug\Задача 1 - събиране.pdb

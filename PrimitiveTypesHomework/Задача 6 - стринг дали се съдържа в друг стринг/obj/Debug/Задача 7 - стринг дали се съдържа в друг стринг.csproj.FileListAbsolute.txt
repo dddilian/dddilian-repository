@@ -1,0 +1,6 @@
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\bin\Debug\Задача 6 - стринг дали се съдържа в друг стринг.exe.config
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\bin\Debug\Задача 6 - стринг дали се съдържа в друг стринг.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\bin\Debug\Задача 6 - стринг дали се съдържа в друг стринг.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\obj\Debug\Задача 6 - стринг дали се съдържа в друг стринг.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\obj\Debug\Задача 6 - стринг дали се съдържа в друг стринг.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - стринг дали се съдържа в друг стринг\obj\Debug\Задача 7 - стринг дали се съдържа в друг стринг.csprojResolveAssemblyReference.cache

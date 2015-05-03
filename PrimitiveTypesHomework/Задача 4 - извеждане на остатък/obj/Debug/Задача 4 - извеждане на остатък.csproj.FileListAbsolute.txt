@@ -1,0 +1,5 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 4 - извеждане на остатък\bin\Debug\Задача 4 - извеждане на остатък.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 4 - извеждане на остатък\bin\Debug\Задача 4 - извеждане на остатък.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 4 - извеждане на остатък\bin\Debug\Задача 4 - извеждане на остатък.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 4 - извеждане на остатък\obj\Debug\Задача 4 - извеждане на остатък.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 4 - извеждане на остатък\obj\Debug\Задача 4 - извеждане на остатък.pdb

@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\bin\Debug\Задача 5 - съединяване на два стринга.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\bin\Debug\Задача 5 - съединяване на два стринга.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\bin\Debug\Задача 5 - съединяване на два стринга.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\obj\Debug\Задача 5 - съединяване на два стринга.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\obj\Debug\Задача 5 - съединяване на два стринга.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 5 - съединяване на два стринга\obj\Debug\Задача 5 - съединяване на два стринга.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\bin\Debug\Задача 2 - проверка дали стринг е равен на Hello.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\bin\Debug\Задача 2 - проверка дали стринг е равен на Hello.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\bin\Debug\Задача 2 - проверка дали стринг е равен на Hello.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\obj\Debug\Задача 2 - проверка дали стринг е равен на Hello.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\obj\Debug\Задача 2 - проверка дали стринг е равен на Hello.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 2 - проверка дали стринг е равен на Hello\obj\Debug\Задача 2 - проверка дали стринг е равен на Hello.csprojResolveAssemblyReference.cache

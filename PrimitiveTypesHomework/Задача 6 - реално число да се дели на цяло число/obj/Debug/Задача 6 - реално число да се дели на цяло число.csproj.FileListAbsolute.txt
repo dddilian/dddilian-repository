@@ -1,0 +1,5 @@
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - реално число да се дели на цяло число\bin\Debug\Задача 6 - реално число да се дели на цяло число.exe.config
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - реално число да се дели на цяло число\bin\Debug\Задача 6 - реално число да се дели на цяло число.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - реално число да се дели на цяло число\bin\Debug\Задача 6 - реално число да се дели на цяло число.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - реално число да се дели на цяло число\obj\Debug\Задача 6 - реално число да се дели на цяло число.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 6 - реално число да се дели на цяло число\obj\Debug\Задача 6 - реално число да се дели на цяло число.pdb

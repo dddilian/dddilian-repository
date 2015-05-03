@@ -1,0 +1,5 @@
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 8 - Nth символ от входящ стринг\bin\Debug\Задача 8 - Nth символ от входящ стринг.exe.config
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 8 - Nth символ от входящ стринг\bin\Debug\Задача 8 - Nth символ от входящ стринг.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 8 - Nth символ от входящ стринг\bin\Debug\Задача 8 - Nth символ от входящ стринг.pdb
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 8 - Nth символ от входящ стринг\obj\Debug\Задача 8 - Nth символ от входящ стринг.exe
+C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\PrimitiveTypesHomework\Задача 8 - Nth символ от входящ стринг\obj\Debug\Задача 8 - Nth символ от входящ стринг.pdb
