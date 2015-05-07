@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\bin\Debug\3та задача.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\bin\Debug\3та задача.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\bin\Debug\3та задача.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\obj\Debug\3та задача.csprojResolveAssemblyReference.cache
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\obj\Debug\3та задача.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\3та задача\obj\Debug\3та задача.pdb
