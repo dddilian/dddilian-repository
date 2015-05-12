@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C6EE24F-6A04-4826-A68C-0CB5913C9313}</ProjectGuid>
+    <ProjectGuid>{A71A391A-F4AD-4C94-8001-65CAFF2BE7B7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3та_задача</RootNamespace>
-    <AssemblyName>3та задача</AssemblyName>
+    <RootNamespace>_3та_задача_вариант_II</RootNamespace>
+    <AssemblyName>3та задача вариант II</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

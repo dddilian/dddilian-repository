@@ -15,7 +15,7 @@ namespace _2ра_задача
 
             for (int i = 1; i <= n; i++)
             {
-                if (i % (3*7) != 0)
+                if (i % (3 * 7) != 0)
                 {
                     Console.WriteLine(i);
                 }

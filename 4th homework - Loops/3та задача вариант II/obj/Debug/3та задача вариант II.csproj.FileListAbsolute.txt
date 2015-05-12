@@ -1,0 +1,6 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\bin\Debug\3та задача вариант II.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\bin\Debug\3та задача вариант II.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\bin\Debug\3та задача вариант II.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.csprojResolveAssemblyReference.cache
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.pdb
