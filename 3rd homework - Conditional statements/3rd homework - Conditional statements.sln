@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2ра задача", "2ра
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3та задача", "3та задача\3та задача.csproj", "{7EBA87C6-8B9B-40AC-939A-A6BBA62212D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алтернатевно решение на 3та задача с карти", "..\..\..\..\Documents\Visual Studio 2013\Projects\3rd homework - Conditional statements\Алтернатевно решение на 3та задача с карти\Алтернатевно решение на 3та задача с карти.csproj", "{6937EA16-92DE-4EED-A100-942CFDD2DAE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7EBA87C6-8B9B-40AC-939A-A6BBA62212D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EBA87C6-8B9B-40AC-939A-A6BBA62212D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EBA87C6-8B9B-40AC-939A-A6BBA62212D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6937EA16-92DE-4EED-A100-942CFDD2DAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6937EA16-92DE-4EED-A100-942CFDD2DAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6937EA16-92DE-4EED-A100-942CFDD2DAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6937EA16-92DE-4EED-A100-942CFDD2DAE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

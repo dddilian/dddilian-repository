@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2ра_задача
+namespace _2ра_задача    // може и със switch case-ове!!!! Да се направи и с тях.
 {
     class Program
     {

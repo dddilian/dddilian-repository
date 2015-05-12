@@ -1,0 +1,5 @@
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\2ра задача - вариант II\bin\Debug\2ра задача - вариант II.exe.config
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\2ра задача - вариант II\bin\Debug\2ра задача - вариант II.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\2ра задача - вариант II\bin\Debug\2ра задача - вариант II.pdb
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\2ра задача - вариант II\obj\Debug\2ра задача - вариант II.exe
+c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\2ра задача - вариант II\obj\Debug\2ра задача - вариант II.pdb

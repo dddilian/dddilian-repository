@@ -3,3 +3,6 @@ c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional
 c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\2ра задача\bin\Debug\2ра задача.pdb
 c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\2ра задача\obj\Debug\2ра задача.exe
 c:\users\dilyan\documents\visual studio 2013\Projects\3rd homework - Conditional statements\2ра задача\obj\Debug\2ра задача.pdb
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\3rd homework - Conditional statements\2ра задача\bin\Debug\2ра задача.exe.config
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\3rd homework - Conditional statements\2ра задача\obj\Debug\2ра задача.exe
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\3rd homework - Conditional statements\2ра задача\obj\Debug\2ра задача.pdb
