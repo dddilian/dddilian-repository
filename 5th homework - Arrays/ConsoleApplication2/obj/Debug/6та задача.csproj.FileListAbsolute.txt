@@ -1,6 +1,0 @@
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\obj\Debug\6та задача.csprojResolveAssemblyReference.cache
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
