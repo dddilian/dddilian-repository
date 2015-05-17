@@ -1,6 +1,0 @@
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\bin\Debug\7ма задача.exe.config
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\bin\Debug\7ма задача.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\bin\Debug\7ма задача.pdb
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\obj\Debug\7ма задача.csprojResolveAssemblyReference.cache
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\obj\Debug\7ма задача.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\7ма задача\obj\Debug\7ма задача.pdb

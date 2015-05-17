@@ -4,6 +4,3 @@ c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.csprojResolveAssemblyReference.cache
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.exe
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.pdb
-C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача вариант II\bin\Debug\3та задача вариант II.exe.config
-C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.exe
-C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача вариант II\obj\Debug\3та задача вариант II.pdb

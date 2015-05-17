@@ -1,8 +1,0 @@
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-c:\users\dilyan\documents\visual studio 2013\Projects\5th homework - Arrays\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\5та задача\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\5та задача\obj\Debug\ConsoleApplication1.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\5та задача\obj\Debug\ConsoleApplication1.pdb

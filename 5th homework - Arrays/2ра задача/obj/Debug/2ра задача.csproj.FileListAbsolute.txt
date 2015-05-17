@@ -1,5 +1,0 @@
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\2ра задача\bin\Debug\2ра задача.exe.config
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\2ра задача\bin\Debug\2ра задача.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\2ра задача\bin\Debug\2ра задача.pdb
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\2ра задача\obj\Debug\2ра задача.exe
-C:\Users\Dilyan\Documents\Visual Studio 2013\Projects\5th homework - Arrays\2ра задача\obj\Debug\2ра задача.pdb
