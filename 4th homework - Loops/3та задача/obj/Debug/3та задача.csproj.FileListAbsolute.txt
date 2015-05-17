@@ -3,3 +3,6 @@ c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача\bin\Debug\3та задача.pdb
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача\obj\Debug\3та задача.exe
 c:\users\dilyan\documents\visual studio 2013\Projects\4th homework - Loops\3та задача\obj\Debug\3та задача.pdb
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача\bin\Debug\3та задача.exe.config
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача\obj\Debug\3та задача.exe
+C:\Users\Dilyan\Desktop\SoftIntellect Homework\dddilian-repository\4th homework - Loops\3та задача\obj\Debug\3та задача.pdb
